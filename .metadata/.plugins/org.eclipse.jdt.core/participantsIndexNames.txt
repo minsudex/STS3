@@ -1,3 +1,5 @@
 INDEX VERSION 1.131
+C:\sts3-work\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2368886228.index
+\spring-first\src\main\java
 C:\Users\user\Documents\workspace-sts-3.9.18.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2368886228.index
 \spring-first\src\main\java
