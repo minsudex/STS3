@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body {
+	background-color: pink;
+}
+
+img {
+	weith: 100px;
+	hight: 100px;
+}
