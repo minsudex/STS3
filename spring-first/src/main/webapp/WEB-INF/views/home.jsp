@@ -5,20 +5,18 @@
 <html>
 <head>
 	<title>Home</title>
-	<style type="text/css">
-		@import url("resources/css/style.css");
-		</style>
 </head>
 <body>
 <h1>
 	Hello world!  
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
-<a href="app/first">[이동]</a>
-
+<p> Server to : ${data} </p>
+<p> Server to : ${num} </p>
 <hr>
-
-<img  src="resources/images/Lake.jpg" width = "300" height = "300">
+<p> 번호 : ${person1.code}</p>
+<p> 이름 : ${person1.strData}</p>
+<p> 나이 : ${person1.numData}</p>
+<p> 생일 : ${person1.dataData}</p>
 </body>
 </html>
